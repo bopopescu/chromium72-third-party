@@ -1,0 +1,12 @@
+[submodule "llvm-build"]
+	path = llvm-build
+	url = git@github.com:shr-project/chromium72-third-party-llvm-build
+[submodule "catapult"]
+	path = catapult
+	url = git@github.com:shr-project/chromium72-third-party-catapult
+[submodule "swiftshader"]
+	path = swiftshader
+	url = git@github.com:shr-project/chromium72-third-party-swiftshader
+[submodule "blink"]
+	path = blink
+	url = git@github.com:shr-project/chromium72-third-party-blink
